@@ -1,5 +1,5 @@
 import time
-
+# from bilibili:神闪避的雪亲王
 # sudoku = [
 #     5, 6, 0, 1, 0, 0, 0, 0, 0,
 #     8, 0, 0, 3, 4, 0, 0, 0, 7,
